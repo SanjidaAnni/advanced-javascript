@@ -1,7 +1,7 @@
 const first = 1;
 const second = true;
 
-//doubole equal check only equality of values
+//double equal check only equality of values
 if(first == second){
     console.log("condition is true");
 }
